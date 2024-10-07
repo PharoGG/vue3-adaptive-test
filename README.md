@@ -1,29 +1,27 @@
 # vue3-adaptive-test
 
-## Project setup
+# При написании использовался Node.js v18.17.0
+
+# Готовый деплой опубликован на gh-pages
+
+```
+pharogg.github.io/vue3-adaptive-test/
+```
+
+## Установка зависимостей проекта
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск локального сервера разработки
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Сборка проекта для продакшена
 
 ```
 npm run build
 ```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
